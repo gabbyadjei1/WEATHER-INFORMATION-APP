@@ -3,10 +3,10 @@ This application provides real-time weather updates using OpenWeatherMap API  * 
 
 <img width="804" height="648" alt="Screenshot 2026-03-25 at 22 18 02" src="https://github.com/user-attachments/assets/38e49934-bdca-4fbc-b89f-edc29eb0b605" />
 
-ASSIGNMENT: Programming Assignment Unit 8 - Weather Information App
-AUTHOR: Gabriel Adjei Mensah
-DATE: March 2026
-VERSION: 1.0
+*ASSIGNMENT: Programming Assignment Unit 8 - Weather Information App
+*AUTHOR: Gabriel Adjei Mensah
+*DATE: March 2026
+*VERSION: 1.0
    
 REFERENCES:
  * [1] Eck, D. J. (2022). Introduction to programming using java version 9, 
@@ -19,7 +19,7 @@ REFERENCES:
 2. Compile: javac WeatherInformationApp.java
 3. Run: java WeatherInformationApp.java
 
-For JSON parsing, download org.json.jar from:
-https://mvnrepository.com/artifact/org.json/json
-Compile with: javac -cp ".:org.json.jar" WeatherInformationApp.java
-Run with: java -cp ".:org.json.jar" WeatherInformationApp.java
+*For JSON parsing, download org.json.jar from:
+*https://mvnrepository.com/artifact/org.json/json
+*Compile with: javac -cp ".:org.json.jar" WeatherInformationApp.java
+*Run with: java -cp ".:org.json.jar" WeatherInformationApp.java
